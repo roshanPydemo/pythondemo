@@ -20,17 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cd91ea9-3123-4be9-a9c6-32ca6a0e0570" name="Default Changelist" comment="Added New code">
-      <change afterPath="$PROJECT_DIR$/ospractice/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/books.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/mileston_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/milestone_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/milstone_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/database2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/database3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/milestone_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/milestone_json.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
