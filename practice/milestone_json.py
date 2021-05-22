@@ -1,11 +1,14 @@
 from utils import database3
+"""
+adding comments
+"""
 
 USER_CHOICE = """
-- 'a' to add a book 
+- 'a' to add a book
 - 'l' to list all books
-- 'd' to delete a book 
+- 'd' to delete a book
 - 'r' to mark read a book
-- 'q' to quit 
+- 'q' to quit
 Your choice:"""
 
 
