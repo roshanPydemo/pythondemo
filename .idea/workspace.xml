@@ -20,17 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cd91ea9-3123-4be9-a9c6-32ca6a0e0570" name="Default Changelist" comment="Added New code">
-      <change afterPath="$PROJECT_DIR$/ospractice/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/books.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/mileston_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/milestone_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/milstone_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/database2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/database3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/dbtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/mysqlprac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/database4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/mysqlconf.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/books.json" beforeDir="false" afterPath="$PROJECT_DIR$/practice/books.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +59,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../complete-python-course" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.milestone_json">
-    <configuration name="database2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.mysqlprac">
+    <configuration name="database4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythondemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/database2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/database4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="database3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dbtest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythondemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,32 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/database3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mileston_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythondemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mileston_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/dbtest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="milstone_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mysqlconf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythondemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +131,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/milstone_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/mysqlconf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysqlprac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythondemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/mysqlprac.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mysqlprac" />
+        <item itemvalue="Python.dbtest" />
+        <item itemvalue="Python.mysqlconf" />
+        <item itemvalue="Python.database4" />
         <item itemvalue="Python.milestone_json" />
-        <item itemvalue="Python.database3" />
-        <item itemvalue="Python.database2" />
-        <item itemvalue="Python.mileston_file" />
-        <item itemvalue="Python.milstone_list" />
       </list>
     </recent_temporary>
   </component>
@@ -226,50 +221,50 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added New code" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="441" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621676039182">
+    <state x="441" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622052813580">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="441" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1621676039182" />
-    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1621678447214">
+    <state x="441" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1622052813580" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1622125923394">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1621678447214" />
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1622125923394" />
     <state x="555" y="266" width="255" height="267" key="Github.ShareDialog" timestamp="1621686131563">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="555" y="266" width="255" height="267" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1621686131563" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1621686756879">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1622131935347">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1621686756879" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1621686756879">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622131935347" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1622131935346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1621686756879" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1621686756879">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1622131935346" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1622131935346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1621686756879" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1621686756879">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1622131935346" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1622131935347">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1621686756879" />
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1621684784725">
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1622131935347" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1622112545251">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1621684784725" />
-    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1621684784725">
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622112545251" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1622112545251">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1621684784725" />
-    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1621684784725">
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1622112545251" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1622112545251">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1621684784725" />
-    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1621684784725">
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1622112545251" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1622112545251">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1621684784725" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1622112545251" />
     <state x="186" y="10" key="SettingsEditor" timestamp="1621686467721">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -278,9 +273,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="494" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1621686159958" />
-    <state x="249" y="95" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1621677219534">
+    <state x="249" y="95" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1622111529730">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="249" y="95" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1621677219534" />
+    <state x="249" y="95" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1622111529730" />
   </component>
 </project>
